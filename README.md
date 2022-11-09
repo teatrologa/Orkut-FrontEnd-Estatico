@@ -33,10 +33,10 @@ Utilizamos o figma inicialmente, onde definimos paleta de cores e criamos <a hre
 
 ### Divisão de páginas entre a dupla:
 #### Página <a href="https://teatrologa.github.io/Orkut-FrontEnd-Estatico/Paginas/Login.html" align="_blank"> Login <a> - Feito por <a href="https://github.com/teatrologa" align="_blank"> Marília Castro </a>
-![image](https://user-images.githubusercontent.com/38474570/200917107-f07dc6c0-bb45-49b3-bc0a-7f19a1363f15.png)
+![image](https://github.com/teatrologa/Orkut-FrontEnd-Estatico/blob/main/Login.png)
 
 #### Página <a href="https://teatrologa.github.io/Orkut-FrontEnd-Estatico/Paginas/Cadastro.html" align="_blank"> Cadastro <a> - Feito por <a href="https://github.com/victup" align="_blank"> Víctor Gonçalves </a>
-![image](https://user-images.githubusercontent.com/38474570/200917198-8488aa30-ca17-4a47-b446-5026ead508f5.png)
+![image](https://github.com/teatrologa/Orkut-FrontEnd-Estatico/blob/main/Cadastro.png)
 
 
 #### Página <a href="https://teatrologa.github.io/Orkut-FrontEnd-Estatico/Paginas/Perfil.html" align="_blank"> Perfil <a> - Feito por <a href="https://github.com/victup" align="_blank"> Víctor Gonçalves </a>
