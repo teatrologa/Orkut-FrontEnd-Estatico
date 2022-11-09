@@ -3,7 +3,7 @@
 Orkut Moderno foi o projeto final de avaliação do módulo (08) de Front-end Estático da LetsCode From Ada.
 
 Autores: <a href="https://github.com/victup" align="_blank"> Víctor Gonçalves </a> e <a href="https://github.com/teatrologa" align="_blank"> Marília Castro </a>
-> Acesse a página: https://victup.github.io/Projeto-Orkut_M08_LetsCode/Paginas/Login.html
+> Acesse a página: https://teatrologa.github.io/Orkut-FrontEnd-Estatico/Paginas/Login.html
 
 
 ##  Requisitos avaliativos
@@ -32,15 +32,15 @@ Utilizamos o figma inicialmente, onde definimos paleta de cores e criamos <a hre
 
 
 ### Divisão de páginas entre a dupla:
-#### Página <a href="https://victup.github.io/Projeto-Orkut_M08_LetsCode/Paginas/Login.html" align="_blank"> Login <a> - Feito por <a href="https://github.com/teatrologa" align="_blank"> Marília Castro </a>
+#### Página <a href="https://teatrologa.github.io/Orkut-FrontEnd-Estatico/Paginas/Login.html" align="_blank"> Login <a> - Feito por <a href="https://github.com/teatrologa" align="_blank"> Marília Castro </a>
 ![image](https://user-images.githubusercontent.com/38474570/200917107-f07dc6c0-bb45-49b3-bc0a-7f19a1363f15.png)
 
-#### Página <a href="https://victup.github.io/Projeto-Orkut_M08_LetsCode/Paginas/Cadastro.html" align="_blank"> Cadastro <a> - Feito por <a href="https://github.com/victup" align="_blank"> Víctor Gonçalves </a>
+#### Página <a href="https://teatrologa.github.io/Orkut-FrontEnd-Estatico/Paginas/Cadastro.html" align="_blank"> Cadastro <a> - Feito por <a href="https://github.com/victup" align="_blank"> Víctor Gonçalves </a>
 ![image](https://user-images.githubusercontent.com/38474570/200917198-8488aa30-ca17-4a47-b446-5026ead508f5.png)
 
 
-#### Página <a href="https://victup.github.io/Projeto-Orkut_M08_LetsCode/Paginas/Perfil.html" align="_blank"> Perfil <a> - Feito por <a href="https://github.com/victup" align="_blank"> Víctor Gonçalves </a>
+#### Página <a href="https://teatrologa.github.io/Orkut-FrontEnd-Estatico/Paginas/Perfil.html" align="_blank"> Perfil <a> - Feito por <a href="https://github.com/victup" align="_blank"> Víctor Gonçalves </a>
 ![image](https://user-images.githubusercontent.com/38474570/200917255-26ec3238-66c0-4774-a630-92a88a434993.png)
 
-#### Página <a href="https://victup.github.io/Projeto-Orkut_M08_LetsCode/Paginas/Comunidade.html" align="_blank"> Comunidades <a> - Feito por <a href="https://github.com/teatrologa" align="_blank"> Marília Castro </a>
+#### Página <a href="https://teatrologa.github.io/Orkut-FrontEnd-Estatico/Paginas/Comunidade.html" align="_blank"> Comunidades <a> - Feito por <a href="https://github.com/teatrologa" align="_blank"> Marília Castro </a>
 ![image](https://user-images.githubusercontent.com/38474570/200917357-16570290-f1b8-41a4-95cd-6c1f5815e5ea.png)
